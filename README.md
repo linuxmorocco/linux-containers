@@ -83,7 +83,7 @@ docker run -it <image> bash # you'll notice runc appearing and disapearing brief
 
 [Using SELinux with container runtimes (DevConf) - YouTube](https://www.youtube.com/watch?v=FOny29a31ls)
 
-[How Docker Works - Intro to Namespaces (LiveOverflow) - Youtube](
+[How Docker Works - Intro to Namespaces (LiveOverflow) - Youtube](https://www.youtube.com/watch?v=-YnMr1lj4Z8)
 
 [Containers unplugged: Linux namespaces (NDC Conferences / Michael Kerrisk) - Youtube](https://www.youtube.com/watch?v=0kJPa-1FuoI)
 
