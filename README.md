@@ -76,14 +76,18 @@ linux kernel: responsible for running and killing the container.
 watch -n 0.1 -e ps aux | grep "runc|crun" # watch the container runtime in a separate terminal
 docker run -it <image> bash # you'll notice runc appearing and disapearing briefly in the watch
 ```
-[0](https://docs.docker.com/config/containers/resource_constraints/)
+[[0]](https://docs.docker.com/config/containers/resource_constraints/)
 # Ressources
 ## Linux container technologies
-[Security-Enhanced Linux for mere mortals (Red Hat Summit) - Youtube](https://www.youtube.com/watch?v=_WOKRaM-HI4
+[Security-Enhanced Linux for mere mortals (Red Hat Summit) - Youtube](https://www.youtube.com/watch?v=_WOKRaM-HI4)
+
 [Using SELinux with container runtimes (DevConf) - YouTube](https://www.youtube.com/watch?v=FOny29a31ls)
+
 [How Docker Works - Intro to Namespaces (LiveOverflow) - Youtube](
+
 [Containers unplugged: Linux namespaces (NDC Conferences / Michael Kerrisk) - Youtube](https://www.youtube.com/watch?v=0kJPa-1FuoI)
-[
-Cgroups, namespaces, and beyond: what are containers made from? -Youtube](https://www.youtube.com/watch?v=sK5i-N34im8)
+
+[Cgroups, namespaces, and beyond: what are containers made from? -Youtube](https://www.youtube.com/watch?v=sK5i-N34im8)
+
 ## Linux Containers
 [Interactive Courses about containers - Katacoda](katacoda.com/)
